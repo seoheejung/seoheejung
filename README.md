@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"><br/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <br/>
 <br/>
@@ -55,8 +56,19 @@
 <br/><br/>
 <div align="center">
 <p><b>📦 Project Site 📦</b></p>
-   <a href='https://www.sul1.shop/' target='_blank'> URL 단축 서비스 </a> <br>
-   <a href='https://phomerge.run.goorm.app/' target='_blank'> 이미지 세로 이어붙이기 </a>
+   <a href='https://www.sul1.shop/' target='_blank'> 
+	   <img src="https://img.shields.io/badge/URL 단축 서비스-353E58?style=for-the-badge&logo=reverbnation&logoColor=white">
+   </a> <br>
+   <a href='https://phomerge.run.goorm.app/' target='_blank'> 
+	   <img src="https://img.shields.io/badge/이미지 세로 이어붙이기-353E58?style=for-the-badge&logo=reverbnation&logoColor=white">
+   </a>
+</div>   
+<br/><br/>
+<div align="center">
+<p><b>📝 Notion 📝</b></p>
+   <a href='https://desert-caption-131.notion.site/dd567f671311406aad8ee815f94181f0?pvs=4' target='_blank'> 
+	   <img src="https://img.shields.io/badge/이력서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
+   </a> <br>
 </div>   
 <br/><br/>
 <div align="center">
