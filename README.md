@@ -68,7 +68,11 @@
 <p><b>📝 Notion 📝</b></p>
    <a href='https://desert-caption-131.notion.site/dd567f671311406aad8ee815f94181f0?pvs=4' target='_blank'> 
 	   <img src="https://img.shields.io/badge/이력서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
+   </a>  
+   <a href='https://desert-caption-131.notion.site/eac6ca63f1ac4207937c6b71e87b242e?pvs=4' target='_blank'> 
+	   <img src="https://img.shields.io/badge/경력기술서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
    </a> <br>
+	
 </div>   
 <br/><br/>
 <div align="center">
