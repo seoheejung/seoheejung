@@ -1,6 +1,7 @@
 <div align="center">
 	
-	![header](https://capsule-render.vercel.app/api?type=cylinder&color=81ccff&height=120&section=header&text=SEOHEEJUNG_GitHub👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=81ccff&height=120&section=header&text=SEOHEEJUNG_GitHub👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
+
 </div>
 <br/><br/>
 <div align="center">
@@ -79,7 +80,6 @@
 	<a href='https://galijung.notion.site/09541ac95b304723a66da24cf963013c?pvs=4' target='_blank'> 
 	   <img src="https://img.shields.io/badge/포트폴리오(개발)-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a> 
-	
 	<a href='https://galijung.notion.site/8b671e3bf0ef4031877d868dc5889815' target='_blank'> 
 	   <img src="https://img.shields.io/badge/포트폴리오(영상)-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a> 
