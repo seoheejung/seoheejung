@@ -60,9 +60,7 @@
 	<p><b>📫 SNS 📫</b></p>
 		<a href="https://www.instagram.com/seo_haligali/" target="_blank"><img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 		<a href="https://halligalli0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-	</div>
-	<br/><br/>
-  
+	</div>  
 	<br/><br/>
 <div align="center">
 	<p><b>📝 Notion 📝</b></p>
