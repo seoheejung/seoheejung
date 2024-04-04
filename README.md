@@ -62,12 +62,7 @@
 		<a href="https://halligalli0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 	</div>
 	<br/><br/>
-<div align="center">
-	<p><b>📦 Project Site 📦</b></p>
-	<a href='https://www.sul1.shop/' target='_blank'> 
-	   <img src="https://img.shields.io/badge/URL 단축 서비스-353E58?style=for-the-badge&logo=reverbnation&logoColor=white">
-	</a>
-</div>   
+  
 	<br/><br/>
 <div align="center">
 	<p><b>📝 Notion 📝</b></p>
