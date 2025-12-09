@@ -72,16 +72,16 @@
 		<a href="https://halligalli0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 	<br/><br/>
 	<h3><b>📝 Notion 📝</b></h3>
-	<a href='https://galijung.notion.site/dd567f671311406aad8ee815f94181f0?pvs=4' target='_blank'> 
+	<a href='https://galijung.notion.site/2c4dbfd1e0fb80a69a27e86b06f46c7d' target='_blank'> 
 	   <img src="https://img.shields.io/badge/이력서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a>  
-	<a href='https://galijung.notion.site/eac6ca63f1ac4207937c6b71e87b242e?pvs=4' target='_blank'> 
+	<a href='https://galijung.notion.site/2c4dbfd1e0fb8082863cef2b0abdd846' target='_blank'> 
 	   <img src="https://img.shields.io/badge/경력기술서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a> 
-	<a href='https://galijung.notion.site/09541ac95b304723a66da24cf963013c?pvs=4' target='_blank'> 
+	<a href='https://galijung.notion.site/2c4dbfd1e0fb807daa85d032c222fb55' target='_blank'> 
 	   <img src="https://img.shields.io/badge/포트폴리오(개발)-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a> 
-	<a href='https://galijung.notion.site/8b671e3bf0ef4031877d868dc5889815' target='_blank'> 
+	<a href='https://galijung.notion.site/2c4dbfd1e0fb80abbe8df115f3f00da5' target='_blank'> 
 	   <img src="https://img.shields.io/badge/포트폴리오(영상)-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a> 
 </div>   
