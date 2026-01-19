@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=81ccff&height=120&section=header&text=SEOHEEJUNG·GitHub👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
+<b>I'm a backend developer working since 2021</b>
+
 </div>
 <br/><br/>
 <div align="center">
