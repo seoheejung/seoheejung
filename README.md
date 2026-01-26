@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=81ccff&height=120&section=header&text=SEOHEEJUNG·GitHub👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
-<b>I'm a backend developer working since 2021</b>
-
 </div>
 <br/><br/>
 <div align="center">
@@ -13,9 +11,13 @@
 		<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 		<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 	<br/>
+		<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 		<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=Graphql&logoColor=white">
 		<img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
 		<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+	<br/>
+		<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+		<img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 		<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 	<br/><br/>
 	<h3>📌 Frontend (Experienced)📌</h3>
