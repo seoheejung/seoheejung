@@ -50,6 +50,14 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 		<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 	<br/><br/>
+	<h3>⚡ AI Integration & Tools ⚡</h3>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/Google Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
+        <img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/AI Agent-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/MCP-FF6F61?style=for-the-badge&logo=anchor&logoColor=white">
+    <br/><br/>
 	<h3>📊 SEO & Analytics 📊</h3>
 		<img src="https://img.shields.io/badge/Google Search Console-458CF5?style=for-the-badge&logo=google&logoColor=white">
 		<img src="https://img.shields.io/badge/Naver Search Advisor-03C75A?style=for-the-badge&logo=naver&logoColor=white">
