@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 		<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 	<br/>
-		<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+		<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 		<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=Graphql&logoColor=white">
 		<img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
 		<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
@@ -33,13 +33,16 @@
 	<h3>🛠 Infra & DevOps 🛠</h3>
 		<img src="https://img.shields.io/badge/AWS EC2-8C4FFF?style=for-the-badge&logo=amazonec2&logoColor=white">
 		<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+		<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+		<br/>
+		<img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
 		<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-		<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
-	<br/>
-		<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-		<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 		<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-		<img src="https://img.shields.io/badge/MongoDB Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+		<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
+		<br/>
+		<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+		<img src="https://img.shields.io/badge/rocky linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white">
+		<img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
 	<br/><br/>
 	<h3>🛠 CI/CD & Collaboration 🛠</h3>
 		<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -50,32 +53,32 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 		<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 	<br/><br/>
-	<h3>⚡ AI Integration & Tools ⚡</h3>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/Google Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
-        <img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/AI Agent-000000?style=for-the-badge&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/MCP-FF6F61?style=for-the-badge&logo=anchor&logoColor=white">
-    <br/><br/>
-	<h3>📊 SEO & Analytics 📊</h3>
-		<img src="https://img.shields.io/badge/Google Search Console-458CF5?style=for-the-badge&logo=google&logoColor=white">
-		<img src="https://img.shields.io/badge/Naver Search Advisor-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-	<br/><br/>
 	<h3>🛠 Tools 🛠</h3>
 		<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 		<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 		<img src="https://img.shields.io/badge/Spring Tools 4-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-		<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 		<br/>
+		<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 		<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 		<img src="https://img.shields.io/badge/heidisql-34A853?style=for-the-badge&logo=heidisql&logoColor=white">
 	<br/><br/>
+	<h3>⚡ AI Integration & Tools ⚡</h3>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/Google Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
+        <img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/AI Agent-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/MCP-FF6F61?style=flat-square&logo=anchor&logoColor=white">
+    <br/><br/>
+	<h3>📊 SEO & Analytics 📊</h3>
+		<img src="https://img.shields.io/badge/Google Search Console-458CF5?style=flat-square&logo=google&logoColor=white">
+		<img src="https://img.shields.io/badge/Naver Search Advisor-03C75A?style=flat-square&logo=naver&logoColor=white">
+	<br/><br/>
 	<h3>🎨 Design 🎨</h3>
-		<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-		<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-		<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-		<img src="https://img.shields.io/badge/Adobe After Effects-A100FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+		<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
+		<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
+		<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
+		<img src="https://img.shields.io/badge/Adobe After Effects-A100FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
 	<br/><br/><br/>
 </div>  
 <div align="center">
