@@ -65,13 +65,14 @@
 		<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 		<img src="https://img.shields.io/badge/heidisql-34A853?style=for-the-badge&logo=heidisql&logoColor=white">
 	<br/><br/>
-	<h3>⚡ AI Integration & Tools ⚡</h3>
+	<h3>⚡ AI Utilization & Tools ⚡</h3>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/Google Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
         <img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
         <br/>
-        <img src="https://img.shields.io/badge/AI Agent-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/MCP-FF6F61?style=flat-square&logo=anchor&logoColor=white">
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+		<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+		<img src="https://img.shields.io/badge/Local%20LLM-44CC11?style=flat-square&logo=linux&logoColor=white">
     <br/><br/>
 	<h3>📊 SEO & Analytics 📊</h3>
 		<img src="https://img.shields.io/badge/Google Search Console-458CF5?style=flat-square&logo=google&logoColor=white">
