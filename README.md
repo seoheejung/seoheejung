@@ -89,8 +89,8 @@
 	<h3><b>📫 SNS 📫</b></h3>
 		<a href="https://www.instagram.com/seo_haligali/" target="_blank"><img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 		<a href="https://halligalli0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-	<a href='[https://galijung.notion.site/2c4dbfd1e0fb80a69a27e86b06f46c7d](https://www.notion.so/galijung/HeeBook-585550ea881b4f2eb8f110b0b27af2be)' target='_blank'> 
-	   <img src="https://img.shields.io/badge/Notion-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
+	<a href='https://www.notion.so/galijung/HeeBook-585550ea881b4f2eb8f110b0b27af2be' target='_blank'> 
+	   <img src="https://img.shields.io/badge/Notion-FFE033?style=flat-square&logo=readdotcv&logoColor=black">
 	</a>  
 </div>   
 <br/><br/>
