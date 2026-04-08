@@ -89,20 +89,9 @@
 	<h3><b>📫 SNS 📫</b></h3>
 		<a href="https://www.instagram.com/seo_haligali/" target="_blank"><img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 		<a href="https://halligalli0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-	<br/><br/>
-	<h3><b>📝 Notion 📝</b></h3>
-	<a href='https://galijung.notion.site/2c4dbfd1e0fb80a69a27e86b06f46c7d' target='_blank'> 
-	   <img src="https://img.shields.io/badge/이력서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
+	<a href='[https://galijung.notion.site/2c4dbfd1e0fb80a69a27e86b06f46c7d](https://www.notion.so/galijung/HeeBook-585550ea881b4f2eb8f110b0b27af2be)' target='_blank'> 
+	   <img src="https://img.shields.io/badge/Notion-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
 	</a>  
-	<a href='https://galijung.notion.site/2c4dbfd1e0fb8082863cef2b0abdd846' target='_blank'> 
-	   <img src="https://img.shields.io/badge/경력기술서-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
-	</a> 
-	<a href='https://galijung.notion.site/2c4dbfd1e0fb807daa85d032c222fb55' target='_blank'> 
-	   <img src="https://img.shields.io/badge/포트폴리오(개발)-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
-	</a> 
-	<a href='https://galijung.notion.site/2c4dbfd1e0fb80abbe8df115f3f00da5' target='_blank'> 
-	   <img src="https://img.shields.io/badge/포트폴리오(영상)-FFE033?style=for-the-badge&logo=readdotcv&logoColor=black">
-	</a> 
 </div>   
 <br/><br/>
 
