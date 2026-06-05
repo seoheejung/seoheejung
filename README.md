@@ -56,6 +56,7 @@
 	<h3>⚡ AI & LLM Tools ⚡</h3>
 		<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openaigym&logoColor=white">
 		<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openaigym&logoColor=white">
+		<br/>
 		<img src="https://img.shields.io/badge/Google Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
 		<img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
 		<br/>
