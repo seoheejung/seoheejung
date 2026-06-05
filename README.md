@@ -54,12 +54,12 @@
 		<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 	<br/><br/>
 	<h3>⚡ AI & LLM Tools ⚡</h3>
-		<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-		<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white">
+		<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openaigym&logoColor=white">
+		<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openaigym&logoColor=white">
 		<img src="https://img.shields.io/badge/Google Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
 		<img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
 		<br/>
-		<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+		<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white">
 		<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
 	<br/><br/>
 	<h3>🛠 Tools 🛠</h3>
