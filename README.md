@@ -72,15 +72,6 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 		<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 	<br/><br/>
-	<h3>🛠 Tools 🛠</h3>
-		<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-		<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-		<img src="https://img.shields.io/badge/Spring Tools 4-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-		<br/>
-		<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
-		<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
-		<img src="https://img.shields.io/badge/heidisql-34A853?style=for-the-badge&logo=heidisql&logoColor=white">
-	<br/><br/>
 	<h3>📊 SEO & Analytics 📊</h3>
 		<img src="https://img.shields.io/badge/Google Search Console-458CF5?style=flat-square&logo=google&logoColor=white">
 		<img src="https://img.shields.io/badge/Naver Search Advisor-03C75A?style=flat-square&logo=naver&logoColor=white">
