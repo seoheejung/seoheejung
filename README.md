@@ -25,7 +25,6 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-    <br/>
         <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -119,11 +118,19 @@
 </div>
 
 <div align="center">
-	<h3><b>📫 SNS 📫</b></h3>
-		<a href="https://www.instagram.com/seo_haligali/" target="_blank"><img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-		<a href="https://halligalli0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-	<a href='https://www.notion.so/galijung/HeeBook-585550ea881b4f2eb8f110b0b27af2be' target='_blank'> 
-	   <img src="https://img.shields.io/badge/Notion-FFE033?style=flat-square&logo=readdotcv&logoColor=black">
-	</a>  
-</div>   
+    <h3><b>📫 SNS 📫</b></h3>
+
+    <a href="https://www.instagram.com/seo_haligali/" target="_blank">
+        <img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    </a>
+
+    <a href="https://halligalli0.tistory.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+    </a>
+
+    <a href="https://www.notion.so/galijung/HeeBook-585550ea881b4f2eb8f110b0b27af2be" target="_blank">
+        <img src="https://img.shields.io/badge/Notion-FFE033?style=flat-square&logo=readdotcv&logoColor=black">
+    </a>
+</div>
+
 <br/><br/>
