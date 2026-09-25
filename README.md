@@ -30,21 +30,17 @@
 	<br/><br/>
 	<h3>⚡ AI & Agent ⚡</h3>
 		<img src="https://img.shields.io/badge/OpenAI API-412991?style=for-the-badge&logo=openai&logoColor=white">
-		<img src="https://img.shields.io/badge/OpenAI Agents SDK-412991?style=for-the-badge&logo=openai&logoColor=white">
 		<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white">
 		<img src="https://img.shields.io/badge/FastMCP-009688?style=for-the-badge&logo=python&logoColor=white">
 	<br/>
 		<img src="https://img.shields.io/badge/Spring AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 		<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logoColor=white">
 	<br/><br/>
-	<h3>🤖 LLM & AI Tools 🤖</h3>
-		<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-		<img src="https://img.shields.io/badge/Google Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
-		<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-	<br/>
+	<h3>🤖 AI Development Tools 🤖</h3>
 		<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
 		<img src="https://img.shields.io/badge/Gemini CLI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 		<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white">
+		<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
 	<br/><br/>
 	<h3>📌 Frontend 📌</h3>
 		<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=EJS&logoColor=white">
