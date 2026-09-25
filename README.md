@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=81ccff&height=120&section=header&text=SEOHEEJUNG·GitHub👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
@@ -97,4 +96,3 @@
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white">
 
 </div>
-```
